@@ -1,6 +1,5 @@
 # 💫 About Me:
-My name is Theeratdolchat Chatchai 
-Now I
+I'm working on Web Application and IOS Application projects
 
 
 ## 🌐 Socials:
